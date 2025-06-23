@@ -1,0 +1,22 @@
+running egg_info
+writing ../build/lidar_scan_relay/lidar_scan_relay.egg-info/PKG-INFO
+writing dependency_links to ../build/lidar_scan_relay/lidar_scan_relay.egg-info/dependency_links.txt
+writing entry points to ../build/lidar_scan_relay/lidar_scan_relay.egg-info/entry_points.txt
+writing requirements to ../build/lidar_scan_relay/lidar_scan_relay.egg-info/requires.txt
+writing top-level names to ../build/lidar_scan_relay/lidar_scan_relay.egg-info/top_level.txt
+reading manifest file '../build/lidar_scan_relay/lidar_scan_relay.egg-info/SOURCES.txt'
+writing manifest file '../build/lidar_scan_relay/lidar_scan_relay.egg-info/SOURCES.txt'
+running build
+running build_py
+copying lidar_scan_relay/relay.py -> /home/blancjh/Desktop/ROS2-projects/Basic-ROS2-TurtleBot3-Manual-Control/Basic-ROS2-TurtleBot3-Manual-Control/build/lidar_scan_relay/build/lib/lidar_scan_relay
+running install
+running install_lib
+copying /home/blancjh/Desktop/ROS2-projects/Basic-ROS2-TurtleBot3-Manual-Control/Basic-ROS2-TurtleBot3-Manual-Control/build/lidar_scan_relay/build/lib/lidar_scan_relay/relay.py -> /home/blancjh/Desktop/ROS2-projects/Basic-ROS2-TurtleBot3-Manual-Control/Basic-ROS2-TurtleBot3-Manual-Control/install/lidar_scan_relay/lib/python3.12/site-packages/lidar_scan_relay
+byte-compiling /home/blancjh/Desktop/ROS2-projects/Basic-ROS2-TurtleBot3-Manual-Control/Basic-ROS2-TurtleBot3-Manual-Control/install/lidar_scan_relay/lib/python3.12/site-packages/lidar_scan_relay/relay.py to relay.cpython-312.pyc
+running install_data
+running install_egg_info
+removing '/home/blancjh/Desktop/ROS2-projects/Basic-ROS2-TurtleBot3-Manual-Control/Basic-ROS2-TurtleBot3-Manual-Control/install/lidar_scan_relay/lib/python3.12/site-packages/lidar_scan_relay-0.0.0-py3.12.egg-info' (and everything under it)
+Copying ../build/lidar_scan_relay/lidar_scan_relay.egg-info to /home/blancjh/Desktop/ROS2-projects/Basic-ROS2-TurtleBot3-Manual-Control/Basic-ROS2-TurtleBot3-Manual-Control/install/lidar_scan_relay/lib/python3.12/site-packages/lidar_scan_relay-0.0.0-py3.12.egg-info
+running install_scripts
+Installing relay script to /home/blancjh/Desktop/ROS2-projects/Basic-ROS2-TurtleBot3-Manual-Control/Basic-ROS2-TurtleBot3-Manual-Control/install/lidar_scan_relay/lib/lidar_scan_relay
+writing list of installed files to '/home/blancjh/Desktop/ROS2-projects/Basic-ROS2-TurtleBot3-Manual-Control/Basic-ROS2-TurtleBot3-Manual-Control/build/lidar_scan_relay/install.log'

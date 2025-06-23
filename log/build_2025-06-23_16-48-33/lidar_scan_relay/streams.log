@@ -1,0 +1,37 @@
+[1.275s] Invoking command in '/home/blancjh/Desktop/ROS2-projects/Basic-ROS2-TurtleBot3-Manual-Control/Basic-ROS2-TurtleBot3-Manual-Control/lidar_scan_relay': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/blancjh/Desktop/ROS2-projects/Basic-ROS2-TurtleBot3-Manual-Control/Basic-ROS2-TurtleBot3-Manual-Control/build/lidar_scan_relay/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/blancjh/Desktop/ROS2-projects/Basic-ROS2-TurtleBot3-Manual-Control/Basic-ROS2-TurtleBot3-Manual-Control/install/lidar_scan_relay/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/lidar_scan_relay build --build-base /home/blancjh/Desktop/ROS2-projects/Basic-ROS2-TurtleBot3-Manual-Control/Basic-ROS2-TurtleBot3-Manual-Control/build/lidar_scan_relay/build install --record /home/blancjh/Desktop/ROS2-projects/Basic-ROS2-TurtleBot3-Manual-Control/Basic-ROS2-TurtleBot3-Manual-Control/build/lidar_scan_relay/install.log --single-version-externally-managed install_data
+[1.640s] running egg_info
+[1.641s] creating ../build/lidar_scan_relay/lidar_scan_relay.egg-info
+[1.666s] writing ../build/lidar_scan_relay/lidar_scan_relay.egg-info/PKG-INFO
+[1.667s] writing dependency_links to ../build/lidar_scan_relay/lidar_scan_relay.egg-info/dependency_links.txt
+[1.667s] writing entry points to ../build/lidar_scan_relay/lidar_scan_relay.egg-info/entry_points.txt
+[1.667s] writing requirements to ../build/lidar_scan_relay/lidar_scan_relay.egg-info/requires.txt
+[1.667s] writing top-level names to ../build/lidar_scan_relay/lidar_scan_relay.egg-info/top_level.txt
+[1.667s] writing manifest file '../build/lidar_scan_relay/lidar_scan_relay.egg-info/SOURCES.txt'
+[1.725s] reading manifest file '../build/lidar_scan_relay/lidar_scan_relay.egg-info/SOURCES.txt'
+[1.725s] writing manifest file '../build/lidar_scan_relay/lidar_scan_relay.egg-info/SOURCES.txt'
+[1.725s] running build
+[1.726s] running build_py
+[1.726s] creating /home/blancjh/Desktop/ROS2-projects/Basic-ROS2-TurtleBot3-Manual-Control/Basic-ROS2-TurtleBot3-Manual-Control/build/lidar_scan_relay/build
+[1.726s] creating /home/blancjh/Desktop/ROS2-projects/Basic-ROS2-TurtleBot3-Manual-Control/Basic-ROS2-TurtleBot3-Manual-Control/build/lidar_scan_relay/build/lib
+[1.726s] creating /home/blancjh/Desktop/ROS2-projects/Basic-ROS2-TurtleBot3-Manual-Control/Basic-ROS2-TurtleBot3-Manual-Control/build/lidar_scan_relay/build/lib/lidar_scan_relay
+[1.726s] copying lidar_scan_relay/__init__.py -> /home/blancjh/Desktop/ROS2-projects/Basic-ROS2-TurtleBot3-Manual-Control/Basic-ROS2-TurtleBot3-Manual-Control/build/lidar_scan_relay/build/lib/lidar_scan_relay
+[1.727s] copying lidar_scan_relay/relay.py -> /home/blancjh/Desktop/ROS2-projects/Basic-ROS2-TurtleBot3-Manual-Control/Basic-ROS2-TurtleBot3-Manual-Control/build/lidar_scan_relay/build/lib/lidar_scan_relay
+[1.727s] running install
+[1.738s] running install_lib
+[1.765s] creating /home/blancjh/Desktop/ROS2-projects/Basic-ROS2-TurtleBot3-Manual-Control/Basic-ROS2-TurtleBot3-Manual-Control/install/lidar_scan_relay/lib/python3.12/site-packages/lidar_scan_relay
+[1.765s] copying /home/blancjh/Desktop/ROS2-projects/Basic-ROS2-TurtleBot3-Manual-Control/Basic-ROS2-TurtleBot3-Manual-Control/build/lidar_scan_relay/build/lib/lidar_scan_relay/__init__.py -> /home/blancjh/Desktop/ROS2-projects/Basic-ROS2-TurtleBot3-Manual-Control/Basic-ROS2-TurtleBot3-Manual-Control/install/lidar_scan_relay/lib/python3.12/site-packages/lidar_scan_relay
+[1.765s] copying /home/blancjh/Desktop/ROS2-projects/Basic-ROS2-TurtleBot3-Manual-Control/Basic-ROS2-TurtleBot3-Manual-Control/build/lidar_scan_relay/build/lib/lidar_scan_relay/relay.py -> /home/blancjh/Desktop/ROS2-projects/Basic-ROS2-TurtleBot3-Manual-Control/Basic-ROS2-TurtleBot3-Manual-Control/install/lidar_scan_relay/lib/python3.12/site-packages/lidar_scan_relay
+[1.766s] byte-compiling /home/blancjh/Desktop/ROS2-projects/Basic-ROS2-TurtleBot3-Manual-Control/Basic-ROS2-TurtleBot3-Manual-Control/install/lidar_scan_relay/lib/python3.12/site-packages/lidar_scan_relay/__init__.py to __init__.cpython-312.pyc
+[1.766s] byte-compiling /home/blancjh/Desktop/ROS2-projects/Basic-ROS2-TurtleBot3-Manual-Control/Basic-ROS2-TurtleBot3-Manual-Control/install/lidar_scan_relay/lib/python3.12/site-packages/lidar_scan_relay/relay.py to relay.cpython-312.pyc
+[1.767s] running install_data
+[1.767s] creating /home/blancjh/Desktop/ROS2-projects/Basic-ROS2-TurtleBot3-Manual-Control/Basic-ROS2-TurtleBot3-Manual-Control/install/lidar_scan_relay/share/ament_index
+[1.767s] creating /home/blancjh/Desktop/ROS2-projects/Basic-ROS2-TurtleBot3-Manual-Control/Basic-ROS2-TurtleBot3-Manual-Control/install/lidar_scan_relay/share/ament_index/resource_index
+[1.767s] creating /home/blancjh/Desktop/ROS2-projects/Basic-ROS2-TurtleBot3-Manual-Control/Basic-ROS2-TurtleBot3-Manual-Control/install/lidar_scan_relay/share/ament_index/resource_index/packages
+[1.768s] copying resource/lidar_scan_relay -> /home/blancjh/Desktop/ROS2-projects/Basic-ROS2-TurtleBot3-Manual-Control/Basic-ROS2-TurtleBot3-Manual-Control/install/lidar_scan_relay/share/ament_index/resource_index/packages
+[1.768s] copying package.xml -> /home/blancjh/Desktop/ROS2-projects/Basic-ROS2-TurtleBot3-Manual-Control/Basic-ROS2-TurtleBot3-Manual-Control/install/lidar_scan_relay/share/lidar_scan_relay
+[1.768s] running install_egg_info
+[1.795s] Copying ../build/lidar_scan_relay/lidar_scan_relay.egg-info to /home/blancjh/Desktop/ROS2-projects/Basic-ROS2-TurtleBot3-Manual-Control/Basic-ROS2-TurtleBot3-Manual-Control/install/lidar_scan_relay/lib/python3.12/site-packages/lidar_scan_relay-0.0.0-py3.12.egg-info
+[1.795s] running install_scripts
+[1.984s] Installing relay script to /home/blancjh/Desktop/ROS2-projects/Basic-ROS2-TurtleBot3-Manual-Control/Basic-ROS2-TurtleBot3-Manual-Control/install/lidar_scan_relay/lib/lidar_scan_relay
+[1.985s] writing list of installed files to '/home/blancjh/Desktop/ROS2-projects/Basic-ROS2-TurtleBot3-Manual-Control/Basic-ROS2-TurtleBot3-Manual-Control/build/lidar_scan_relay/install.log'
+[2.019s] Invoked command in '/home/blancjh/Desktop/ROS2-projects/Basic-ROS2-TurtleBot3-Manual-Control/Basic-ROS2-TurtleBot3-Manual-Control/lidar_scan_relay' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/blancjh/Desktop/ROS2-projects/Basic-ROS2-TurtleBot3-Manual-Control/Basic-ROS2-TurtleBot3-Manual-Control/build/lidar_scan_relay/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/blancjh/Desktop/ROS2-projects/Basic-ROS2-TurtleBot3-Manual-Control/Basic-ROS2-TurtleBot3-Manual-Control/install/lidar_scan_relay/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/lidar_scan_relay build --build-base /home/blancjh/Desktop/ROS2-projects/Basic-ROS2-TurtleBot3-Manual-Control/Basic-ROS2-TurtleBot3-Manual-Control/build/lidar_scan_relay/build install --record /home/blancjh/Desktop/ROS2-projects/Basic-ROS2-TurtleBot3-Manual-Control/Basic-ROS2-TurtleBot3-Manual-Control/build/lidar_scan_relay/install.log --single-version-externally-managed install_data
